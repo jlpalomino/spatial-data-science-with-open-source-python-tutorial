@@ -1,0 +1,57 @@
+Description: Block Groups in San Francisco County, CA
+Appended Variables:
+COL1:	Spatial ID
+COL2: 	Vac2010 - % Vacant Units, 2000 [in year 2010 geog]
+COL3:	Inc2014 - Family Inc., Per Capita ($), 2014
+COL4:	Rent2014 - % Housing, Renter Occupied, 2014
+COL5:	Own2014 - % Housing, Owner Occupied, 2014
+COL6: 	Pop2014 - # Population (Pop), 2014
+COL7:	PopDen2014 - Population Density (per sq. mile), 2014
+COL8:	PopRt1014 - Population % Growth (2014/2010), 2014
+COL9: 	Burg2014 - EASI Burglary Index, 2014
+COL10:	Crime2014 - EASI Total Crime Index, 2014
+
+
+
+Additional Information on Crime 2014:
+
+Name:	EASI Total Crime Index, 2014
+Path:	Quality of Life
+Definition:	A higher value indicates more crime than average near the geography. A combination of 8 crime related 
+variables with more weight given to violent crimes. The higher the value, the more crime there is. 
+The weights used for the Total Crime Index are: Murder 20, Forcible Rape 10, Robbery 6, Aggravated Assault 6, Burglary 3, 
+Larceny 1 and Motor Vehicle Theft 1.
+
+Source Agency:	
+Data Source:
+
+EASI Analytic created an index (where 100 is the national average) using one or more variables from 
+the US Census Bureau. See specific market segment definition or more information.
+
+Crime Data:
+Federal Bureau of Investigation (FBI) & Uniform Crime Reporting (UCR) Program, 2007, 2008 & 2009. 
+These data represent the reported crimes to the FBI. The definitions for the crime types are from the 
+Penal Law of The State of New York.These are a weighted percentage models developed by EASI. 
+EASI creates each profile using data available at each level of geography. 
+Each result is then analyzed in terms of its rank compared to the geography that it is a part of.
+
+
+Additional Information on Burg2014:
+
+Name:	Burglary Index, 2014
+Path:	Quality of Life
+Definition:	A higher value indicates more than average number of burglaries near the geography. 
+A person is guilty of burglary when he or she knowingly enters or remains unlawfully in a dwelling 
+with intent to commit a crime therein and when armed, causes physical injury, threatens, or displays 
+a dangerous instrument.
+
+Data Source:
+EASI Analytic created an index (where 100 is the national average) using one or more variables from 
+the US Census Bureau. See specific market segment definition or more information.
+
+Crime Data:
+Federal Bureau of Investigation (FBI) & Uniform Crime Reporting (UCR) Program, 2007, 2008 & 2009. 
+These data represent the reported crimes to the FBI. The definitions for the crime types are from the 
+Penal Law of The State of New York.These are a weighted percentage models developed by EASI. 
+EASI creates each profile using data available at each level of geography. 
+Each result is then analyzed in terms of its rank compared to the geography that it is a part of.
